@@ -1,0 +1,13 @@
+package connectionDB;
+
+public class hola {
+	
+	public static void hi() {
+		System.out.println("hola perras");
+	}
+
+	public static void main(String[] args) {
+		
+		hi();
+	}
+}
